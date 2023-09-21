@@ -1,1 +1,7 @@
 .env
+
+# Robot Framework automatically generated files
+log.html
+report.html
+playwright-log.txt
+output.xml
