@@ -14,6 +14,7 @@ Uses Robot Framework & Playwright
 - npm
 
 Python version is set to 3.10 in the Pipfile
+
 Pyenv is recommended for managing different Python versions
 
 ## Install
@@ -26,7 +27,7 @@ Pyenv is recommended for managing different Python versions
 
 1. Add the required environment variables (i.e. `.env`-file)
 2. Run `robot <selected website>.robot`
-    - For example: `robot copymatic.ai`
+    - For example: `robot copymatic.robot`
 
 # Supported sites
 
