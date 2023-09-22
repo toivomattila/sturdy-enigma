@@ -27,7 +27,7 @@ Pyenv is recommended for managing different Python versions
 
 1. Add the required environment variables (i.e. `.env`-file)
 2. Run `robot <selected website>.robot`
-    - For example: `robot copymatic.robot`
+    - For example: `robot change_email/copymatic.robot`
 
 # Supported sites
 
