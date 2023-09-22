@@ -33,4 +33,9 @@ Pyenv is recommended for managing different Python versions
 
 ## Changing the email address
 
-Copymatic.ai
+- Chess.com
+- Copymatic.ai
+
+## Changing the password
+
+- Copymatic.ai
