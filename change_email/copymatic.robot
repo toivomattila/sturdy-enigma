@@ -9,7 +9,7 @@ ${BROWSER}          chromium
 ${HEADLESS}         False
 # Read old email, password and new email from environment variables
 ${CURRENT_EMAIL}    %{COPYMATIC_CURRENT_EMAIL}
-${PASSWORD}         %{COPYMATIC_PASSWORD}
+${PASSWORD}         %{COPYMATIC_OLD_PASSWORD}
 ${NEW_EMAIL}        %{COPYMATIC_NEW_EMAIL}
 
 
