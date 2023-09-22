@@ -8,7 +8,7 @@ Library   Browser
 ${BROWSER}          chromium
 ${HEADLESS}         False
 # Read old email, password and new email from environment variables
-${CURRENT_EMAIL}    %{COPYMATIC_CURRENT_EMAIL}
+${CURRENT_EMAIL}    %{COPYMATIC_OLD_EMAIL}
 ${OLD_PASSWORD}     %{COPYMATIC_OLD_PASSWORD}
 ${NEW_PASSWORD}     %{COPYMATIC_NEW_PASSWORD}
 
